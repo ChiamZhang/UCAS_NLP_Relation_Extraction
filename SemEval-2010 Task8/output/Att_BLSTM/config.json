@@ -1,0 +1,1 @@
+{"data_dir": "./data", "output_dir": "./output", "embedding_path": "./embedding/glove.6B.100d.txt", "word_dim": 100, "model_name": null, "mode": 1, "seed": 5782, "cuda": 0, "epoch": 30, "batch_size": 10, "lr": 1.0, "max_len": 100, "emb_dropout": 0.3, "lstm_dropout": 0.3, "linear_dropout": 0.5, "hidden_size": 100, "layers_num": 1, "L2_decay": 1e-05}
